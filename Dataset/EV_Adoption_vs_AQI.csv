@@ -1,0 +1,36 @@
+state,ev_count,avg_aqi,category
+Andaman and Nicobar Islands,107,57.706896551724135,Others
+Andhra Pradesh,99600,77.50770100324996,Others
+Arunachal Pradesh,72,54.485265225933205,Others
+Assam,171813,114.11745580166632,Others
+Bihar,253242,157.15812183918712,Top 5 EV States
+Chandigarh,14806,141.5617777777778,Others
+Chhattisgarh,91179,78.98632109431246,Others
+Dadra and Nagar Haveli and Daman and Diu,579,,Others
+Delhi,208092,206.41688888888888,Others
+Goa,24305,,Others
+Gujarat,201680,110.6342719227675,Others
+Haryana,88519,140.85280567585,Others
+Himachal Pradesh,3655,160.25703564727954,Others
+Jammu and Kashmir,27913,69.49543378995433,Others
+Jharkhand,58322,164.94036061026353,Others
+Karnataka,374839,62.67285264322806,Top 5 EV States
+Kerala,175754,68.07014711158952,Others
+Ladakh,80,,Others
+Lakshadweep,8,,Others
+Madhya Pradesh,172366,108.71648252245267,Others
+Maharashtra,474313,103.6398325838194,Top 5 EV States
+Manipur,1295,100.9273607748184,Others
+Meghalaya,1050,62.73112128146453,Others
+Mizoram,928,47.247,Others
+Nagaland,19,80.45872518286312,Others
+Odisha,115476,124.87971889359402,Others
+Puducherry,7263,56.51401869158879,Others
+Punjab,74116,117.85426484448634,Others
+Rajasthan,244182,127.98724844837314,Others
+Sikkim,7,53.688995215311,Others
+Tamil Nadu,252214,67.75765434164296,Top 5 EV States
+Tripura,21573,126.6975845410628,Others
+Uttar Pradesh,793274,126.42403628117914,Top 5 EV States
+Uttarakhand,48027,87.89879931389365,Others
+West Bengal,75482,114.19289120069354,Others

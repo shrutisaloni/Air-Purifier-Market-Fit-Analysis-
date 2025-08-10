@@ -1,0 +1,17 @@
+area,day_type,avg_aqi
+Ahmedabad,Weekday,113.48847926267281
+Ahmedabad,Weekend,116.83720930232558
+Bengaluru,Weekday,74.55760368663594
+Bengaluru,Weekend,75.26744186046511
+Chennai,Weekday,72.48847926267281
+Chennai,Weekend,68.53488372093024
+Delhi,Weekday,210.33179723502303
+Delhi,Weekend,198.24418604651163
+Hyderabad,Weekday,80.46082949308756
+Hyderabad,Weekend,80.9186046511628
+Kolkata,Weekday,98.52534562211981
+Kolkata,Weekend,99.05813953488372
+Mumbai,Weekday,95.25806451612904
+Mumbai,Weekend,98.54651162790698
+Pune,Weekday,105.7741935483871
+Pune,Weekend,105.4186046511628

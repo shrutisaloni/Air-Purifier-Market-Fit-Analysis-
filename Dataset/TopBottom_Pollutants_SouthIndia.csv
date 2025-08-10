@@ -1,0 +1,21 @@
+state,prominent_pollutants,count
+Andhra Pradesh,PM10,3182
+Andhra Pradesh,PM2.5,1757
+Andhra Pradesh,"PM10,NO2,PM2.5,O3",1
+Andhra Pradesh,"PM2.5,CO,O3",1
+Karnataka,PM10,13404
+Karnataka,CO,2913
+Karnataka,"PM2.5,NO2",1
+Karnataka,"SO2,O3",1
+Kerala,PM10,3167
+Kerala,PM2.5,1123
+Kerala,SO2,7
+Kerala,"CO,O3",6
+Tamil Nadu,PM10,6253
+Tamil Nadu,PM2.5,2268
+Tamil Nadu,"PM2.5,CO,NO2",1
+Tamil Nadu,"PM2.5,NH3,CO",1
+Telangana,"PM2.5,PM10",343
+Telangana,PM10,315
+Telangana,NO2,1
+Telangana,"PM2.5,NO2",1
